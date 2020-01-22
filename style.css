@@ -1,0 +1,23 @@
+
+
+h1 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 25px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    text-transform: uppercase;
+}  
+
+.greyDiv {
+    background-color: lightgray;
+    color: black;
+    padding: 10px;
+   
+}
+
+.tablePad {
+    padding: 20px;
+    vertical-align: text-top;
+}
